@@ -102,6 +102,14 @@ body {
   background-image: url(../img/banners/4.jpg); }
 .team_banner{
   background-image: url(../img/banners/5.jpg);}
+.faq_banner{
+  background-image: url(../img/banners/6.jpg); }
+.terms_banner{
+  background-image: url(../img/banners/7.jpg); }
+.privacy_banner{
+  background-image: url(../img/banners/8.jpg); }
+.contact_banner{
+  background-image: url(../img/banners/9.jpg); }
 
 .pagination:before, .pagination:after {
   content: " ";
@@ -731,10 +739,19 @@ th {
 {
   float: right;
 }
-.what_is_inventors p
+.what_is_inventors p,.faq p,.terms p,.privacy li
 {
   color:gray;
   font-size: 18px;
+}
+.blue
+{
+  color:white;
+  background-color: #0099ff;
+  border-style: none;
+  border-radius: 20px;
+  padding: 10px 10px;
+  font:14px;
 }
 
 .team-item
