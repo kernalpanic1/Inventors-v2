@@ -744,27 +744,37 @@ th {
   color:gray;
   font-size: 18px;
 }
-.blue
+.team
 {
-  color:white;
-  background-color: #0099ff;
-  border-style: none;
-  border-radius: 20px;
-  padding: 10px 10px;
-  font:14px;
+  margin-left: 2%;
+  margin-top: 10%;
+  margin-bottom: 20%;
 }
 
-.team-item
+.founder,.co-founder,.publicity-head1,.publicity-head2
 {
-  display: inline-table;
+    display: inline-table;
+    text-align: center;
+    margin-right: 20px;
 }
-.image
-{
-  float: left;
-}
+  
 .details
 {
-  float: right;
-  margin-left: 20px;
+  background-color: #3366ff;
+  color: white;
+  border-radius: 10px;
+  padding: 8px;
 }
+.details h2
+{
+  font-size: 16px;
 
+}
+.details h3
+{
+  font-size: 14px;
+}
+.details p
+{
+  font-size: 12px;
+}
