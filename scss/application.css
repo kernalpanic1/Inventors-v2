@@ -725,6 +725,7 @@ th {
 .footer-wrapper a
 {
   color: blue;
+  text-decoration: none
 }
 
 .footer-logo-copyright
