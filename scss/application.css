@@ -747,9 +747,11 @@ th {
 }
 .team
 {
-  margin-left: 2%;
+  margin-left: 15%;
   margin-top: 10%;
-  margin-bottom: 20%;
+  margin-bottom: 10%;
+  margin-right: 10%;
+  position: relative;
 }
 
 .founder,.co-founder,.publicity-head1,.publicity-head2
@@ -761,6 +763,7 @@ th {
   
 .details
 {
+  width: 200px;
   background-color: #3366ff;
   color: white;
   border-radius: 10px;
